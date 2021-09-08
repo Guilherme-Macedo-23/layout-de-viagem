@@ -6,6 +6,7 @@
 <p align="center">The following tecnologies were used in this project</p>
 <p>*✔️Html</p>
 <p>*✔️Css</p>
+<p>*✔️Javascript</p>
 
 <h1 align="center"> 💻 Project </h1>
 <p align="center"> This project it's completely over </p>
